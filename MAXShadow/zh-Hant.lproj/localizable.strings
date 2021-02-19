@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  MAXShadow
+
+  Created by 大鲨鱼 on 2018/8/15.
+  Copyright © 2018年 大鲨鱼. All rights reserved.
+*/
+
+
+// MARK: 首页菜单
+"home_setting_menu_rate_us" = " 反馈";
+"home_setting_menu_feedback" = "反馈";
+"home_setting_menu_share_app" = "分享 APP";
+"home_setting_menu_setting" = "设置";
+"home_feedback_mail_subject" = "反馈或建议";
+"home_share_app_title" = "MAX壁纸";
+"home_page_home" = "MAX";
+"home_page_favorite" = "收藏";
+
+// MARK: alert
+"common_alert_title_tip" = "提示";
+"photo_library_authorized_tip" = "需要相册的权限";
+"save_image_to_library_success" = "下载成功";
+"save_image_to_library_failure" = "下载失败";
+"no_favorite_images" = "没有收藏的图片";
+
+// MARK: 网络提示
+"network_req_failure" = "手机断网了吧";
+"network_req_no_data" = "我猜手机网络不好";
+"network_not_connected" = "我猜手机断网了";
+
+//设置界面
+"setting_cell_favorite" = "收藏";
+"setting_cell_feedback" = "反馈";
+"setting_cell_rate_us" = "给我们好评";
+"setting_cell_clear_cache" = "清除缓存";
+"setting_cell_invite_riends" = "分享给朋友";
+"setting_cell_about_us" = "关于我们";

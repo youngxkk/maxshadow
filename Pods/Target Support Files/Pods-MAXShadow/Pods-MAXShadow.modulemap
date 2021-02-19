@@ -1,0 +1,6 @@
+framework module Pods_MAXShadow {
+  umbrella header "Pods-MAXShadow-umbrella.h"
+
+  export *
+  module * { export * }
+}

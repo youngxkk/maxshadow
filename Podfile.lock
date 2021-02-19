@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Chrysan (1.3.0)
+  - RSLoadingView (1.1.3)
+  - SDVersion (4.3.2)
+  - SwiftyBeaver (1.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Chrysan
+  - RSLoadingView
+  - SDVersion
+  - SwiftyBeaver
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Chrysan
+    - RSLoadingView
+    - SDVersion
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Chrysan: 857ab6f5227a570644f19d82b92e0418f535acab
+  RSLoadingView: c7749afdd455229643e8f34277d0695973a15b1a
+  SDVersion: 18f32c835c1543611fcfae3c6accd9a04b90597e
+  SwiftyBeaver: e45759613e50b522b0e6f53b1f0f14389b45ca34
+
+PODFILE CHECKSUM: 57e4699d463d1c1ceb64ad6108a5f3a637c2cdf4
+
+COCOAPODS: 1.5.3
